@@ -1,0 +1,15 @@
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+coverage/
+lib/l10n/app_localizations*.dart
+lib/firebase_options.dart
+**/google-services.json
+**/GoogleService-Info.plist
+**/local.properties
+**/key.properties
+*.jks
+*.p12
+*.mobileprovision
+.env*
+node_modules/
